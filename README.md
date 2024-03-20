@@ -4,6 +4,18 @@ Uses ncurses library.
 
 ## Usage
 
+### Install ncurses
+
+```bash
+sudo apt remove libncurses5-dev libncursesw5-dev
+```
+
+### Uninstall ncurses
+
+```bash
+sudo apt remove libncurses5-dev libncursesw5-dev
+```
+
 ### Compilation
 
 #### Client
