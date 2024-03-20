@@ -58,3 +58,7 @@ Arguments :
 |------------|------------|------------|------------|
 |-m|Maximum cients at the same time|No|100|
 |-p|Listening port|No|2021|
+
+### Close program
+
+Use `/quit` to leave chat.
