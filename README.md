@@ -61,4 +61,5 @@ Arguments :
 
 ### Close program
 
-Use `/quit` to leave chat.
+Use `/quit` to leave chat. \
+Use `shutdown` to close server.
